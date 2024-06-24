@@ -1,0 +1,2 @@
+# EpidemicSchoolInformationRegistrationManagementSystem
+ 基于ssm的疫情学校信息登记管理系统：这个项目主打一个简单，集成学生登记、教职工登记、外来人员登记和相关查询等功能于一体的系统。
